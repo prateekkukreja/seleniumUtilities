@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Test1">
+    <test name="Creepy">
+        <classes>
+            <class name="testInterview.AnnotationsTestNG"/>
+            <class name="testInterview.AnnotationsTestNG1"/>
+            <class name="testInterview.AnnotationsTestNG2"/>
+        </classes>
+    </test>
+</suite>
