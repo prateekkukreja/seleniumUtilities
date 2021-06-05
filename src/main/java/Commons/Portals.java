@@ -1,5 +1,5 @@
 package Commons;
 
 public enum Portals {
-    HIRIST, LINKEDIN, IIMJOBS, INSTAHYRE, QR
+    HIRIST, LINKEDIN, IIMJOBS, INSTAHYRE, QR, GITHUB
 }

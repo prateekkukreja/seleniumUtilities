@@ -85,6 +85,7 @@ public class LoginHirist {
                 case HIRIST:
                     setUrl = "https://www.hirist.com/jobfeed";
                     break;
+
                 default:
                     setUrl = "https://www.google.com";
             }
